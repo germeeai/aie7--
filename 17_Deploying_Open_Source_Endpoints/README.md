@@ -45,6 +45,8 @@ Use RAGAS to evaluate your open-source powered app against an OpenAI `gpt-4.1-mi
 
 Make a social media post about your final application!
 
+1
+
 ### Deliverables
 
 - Make a post on any social media platform about what you built!
