@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "dependencies": ["."],
+  "python_version": "3.13",
+  "graphs": {
+    "minimal": "minimal_graph:graph"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "dependencies": ["."],
+  "env": ".env",
+  "python_version": "3.13",
+  "graphs": {
+    "simple_chat": "simple_agent:graph"
+  },
+  "assistants": {
+    "simple": {
+      "graph_id": "simple_chat",
+      "name": "Simple Chat Assistant",
+      "description": "A minimal chat assistant using Together AI endpoints."
+    }
+  }
+}
