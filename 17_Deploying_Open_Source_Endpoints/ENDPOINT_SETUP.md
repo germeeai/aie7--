@@ -37,3 +37,5 @@ Together offers serverless endpoints for embedding models, we'll be using the [B
 ### ❓ Question #1: 
 
 What is the difference between serverless and dedicated endpoints?
+
+Serverless endpoints automatically turn on and off when needed to save cost, while dedicated endpoints are always running on reserved machines just for you
